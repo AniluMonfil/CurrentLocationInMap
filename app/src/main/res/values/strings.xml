@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MapaLocalizacionMarcardor</string>
+    <string name="google_maps_api_key" templateMergeStrategy="preserve" translatable="false">AIzaSyCxLKAzToC_OpLaVExZQopXUsDZ_1bC-pU</string>
+
+</resources>
